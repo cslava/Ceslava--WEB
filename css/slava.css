@@ -40,6 +40,7 @@ h4 {
 	font-size: 12px;
 	color: #FFF;
 }
+
 #apDiv1 {
 	position: absolute;
 	width: 200px;
@@ -104,4 +105,16 @@ h4 {
 
 .titleProfile{
 	margin: 0px;
+}
+
+#socialButtons{
+	margin-top:  260px;
+	margin-left: -9px;
+	position:absolute;
+	z-index:100;
+}
+
+.socialButtonsImg{ 
+	width:40px;
+	height:40px;
 }
